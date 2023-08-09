@@ -1,0 +1,6 @@
+framework module Pods_Almacen {
+  umbrella header "Pods-Almacen-umbrella.h"
+
+  export *
+  module * { export * }
+}

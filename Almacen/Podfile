@@ -1,0 +1,16 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Almacen' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Almacen
+
+ pod 'Firebase/Auth', '6.4.0'
+ pod 'FirebaseCore'
+ pod 'FirebaseFirestore'
+ pod 'Protobuf', '3.22.1'
+ 
+end
+												
